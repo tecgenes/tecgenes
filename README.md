@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/tecgenes/tecgenes/blob/main/api_header.gif)
 <h1 align="center">Hi 👋, I'm Marwan Sallum</h1>
 <h3 align="center">A passionate mobile and web application developer</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/MarwanSallum/MarwanSallum/blob/main/coding.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/tecgenes/tecgenes/blob/main/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marwansallum&label=Profile%20views&color=0e75b6&style=flat" alt="marwansallum" /> </p>
 
