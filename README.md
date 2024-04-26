@@ -6,9 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marwansallum&label=Profile%20views&color=0e75b6&style=flat" alt="marwansallum" /> </p>
 
 
-- 🔭 I deal with [Flutter Framework](https://flutter.dev/) to create Android & IOS apps
+- 🔭 I deal with [Flutter](https://flutter.dev/) to create Android & IOS apps
 
-- 🌱 For backend, I deal with [Nestjs framework](https://nestjs.com/) to create API & graphql
+- 🌱 For backend, I deal with [Nestjs](https://nestjs.com/) to create API & graphql
 
 - 👯 For SPA, I'm using [Nextjs](https://nextjs.org/) or [Vuejs](https://vuejs.org/)
 
